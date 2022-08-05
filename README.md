@@ -1,3 +1,5 @@
+## This is my new test dictionary. Here I will learn new words and phrases! Maybe something else...
+
 Merlin
 ======
 Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
